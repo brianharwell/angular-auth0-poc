@@ -1,0 +1,11 @@
+C:\Source\github\auth0-angular-poc-webservice\Auth0 Angular Webservice\WebApplication\bin\Debug\netcoreapp2.0\WebApplication.deps.json
+C:\Source\github\auth0-angular-poc-webservice\Auth0 Angular Webservice\WebApplication\bin\Debug\netcoreapp2.0\WebApplication.runtimeconfig.json
+C:\Source\github\auth0-angular-poc-webservice\Auth0 Angular Webservice\WebApplication\bin\Debug\netcoreapp2.0\WebApplication.runtimeconfig.dev.json
+C:\Source\github\auth0-angular-poc-webservice\Auth0 Angular Webservice\WebApplication\bin\Debug\netcoreapp2.0\WebApplication.dll
+C:\Source\github\auth0-angular-poc-webservice\Auth0 Angular Webservice\WebApplication\obj\Debug\netcoreapp2.0\WebApplication.csprojResolveAssemblyReference.cache
+C:\Source\github\auth0-angular-poc-webservice\Auth0 Angular Webservice\WebApplication\obj\Debug\netcoreapp2.0\WebApplication.csproj.CoreCompileInputs.cache
+C:\Source\github\auth0-angular-poc-webservice\Auth0 Angular Webservice\WebApplication\obj\Debug\netcoreapp2.0\WebApplication.AssemblyInfoInputs.cache
+C:\Source\github\auth0-angular-poc-webservice\Auth0 Angular Webservice\WebApplication\obj\Debug\netcoreapp2.0\WebApplication.AssemblyInfo.cs
+C:\Source\github\auth0-angular-poc-webservice\Auth0 Angular Webservice\WebApplication\bin\Debug\netcoreapp2.0\WebApplication.pdb
+C:\Source\github\auth0-angular-poc-webservice\Auth0 Angular Webservice\WebApplication\obj\Debug\netcoreapp2.0\WebApplication.dll
+C:\Source\github\auth0-angular-poc-webservice\Auth0 Angular Webservice\WebApplication\obj\Debug\netcoreapp2.0\WebApplication.pdb

@@ -1,0 +1,27 @@
+<p *ngIf="!isAuthenticated">
+    You are not authenticated. Click <a href="#" (click)="signIn()">here</a> to sign in.
+</p>
+
+<div *ngIf="isAuthenticated">
+    <p>
+        You are authenticated. Click <a href="#" (click)="signOut()">here</a> to sign out.
+    </p>
+
+    <p>
+        Click <a href="#" (click)="refreshToken()">here</a> to refresh token.
+    </p>
+    
+    <p>
+        Click <a href="#" (click)="callApi()">here</a> to call webservice.
+    </p>
+
+    <p>
+        Click <a href="#" (click)="automaticTokenRefresh()">here</a> to start automatic token refresh
+    </p>
+    
+    <p>
+        Click <a href="#" (click)="debug()">here</a> to debug
+    </p>
+</div>
+
+
