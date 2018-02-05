@@ -11,13 +11,15 @@ import { HomeComponent } from './home/home.component';
 import { SignInCallbackComponent } from './sign-in-callback/sign-in-callback.component';
 import { HttpService } from './http.service';
 import { WindowService } from './window.service';
+import { SignInWithLockComponent } from './sign-in-with-lock/sign-in-with-lock.component';
 
 @NgModule({
     declarations: [
         AppComponent,
         SignInCallbackComponent,
         HomeComponent,
-        SignInCallbackComponent
+        SignInCallbackComponent,
+        SignInWithLockComponent
     ],
     imports: [
         BrowserModule,

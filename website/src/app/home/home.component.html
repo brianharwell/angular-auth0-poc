@@ -1,5 +1,5 @@
 <p *ngIf="!isAuthenticated">
-    You are not authenticated. Click <a href="#" (click)="signIn()">here</a> to sign in.
+    You are not authenticated. Click <a href="#" (click)="signIn()">here</a> to sign in with a redirect or <a routerLink="/sign-in-with-lock">here</a> to sign in with lock
 </p>
 
 <div *ngIf="isAuthenticated">
